@@ -4,7 +4,7 @@ on:
   push:
     branches: 
       - master
-      - release-githubactions
+      - release-githubactions-assignment
       
   workflow_dispatch:
     inputs:
